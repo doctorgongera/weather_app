@@ -1,0 +1,25 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+    padding: 2 rem;
+    background-color: cadetblue;
+    color: whitesmoke;
+    min-height:0dvh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2 rem;
+    font-size: 2 rem;
+}
+
+input, button {
+        font-size: 2 rem;
+        padding: 1 rem;
+        border-radius: 10px;
+
+}
+
